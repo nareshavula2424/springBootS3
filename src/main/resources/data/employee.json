@@ -1,0 +1,45 @@
+
+[
+  {
+  "employeeId": 101,
+  "firstName": "John",
+  "lastName": "David",
+  "email": "John.David@example.com",
+  "phone": "9876543210",
+  "designation": "Senior Java Developer",
+  "department": "Engineering",
+  "salary": 95000,
+  "joiningDate": "2024-06-15",
+  "address": "Hyderabad",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "Microservices",
+    "Angular",
+    "AWS",
+    "Docker"
+  ],
+  "active": true
+},
+  {
+    "employeeId": 101,
+    "firstName": "John",
+    "lastName": "David",
+    "email": "John.David@example.com",
+    "phone": "9876543210",
+    "designation": "Senior Java Developer",
+    "department": "Engineering",
+    "salary": 95000,
+    "joiningDate": "2024-06-15",
+    "address": "Hyderabad",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Angular",
+      "AWS",
+      "Docker"
+    ],
+    "active": true
+  }
+  ]
